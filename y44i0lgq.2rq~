@@ -1,0 +1,6 @@
+﻿window.onload = slomo;
+
+function slomo() {
+    var vid = document.getElementById("bgvid");
+    vid.playbackRate = 0.5;
+}
