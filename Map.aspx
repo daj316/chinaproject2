@@ -71,10 +71,7 @@
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2">
                     <h1>ARTIFACTS THROUGHOUT CHINA</h1>
-                    <h4>
-                        <strong>
-                        </strong>
-                    </h4>
+                   
 
                     <div id="map" style="width:750px;height:500px;">
                     </div>
@@ -87,6 +84,16 @@
             <div class="row text-center">
                 <div class="col-md-12">
                     <p></p>
+
+                    <input type="button" id="found_button" value="Found" />
+                    <input type="button" id="created_button" value="Created" />
+                    <input type="button" id="curated_button" value="Curated" />
+
+
+                   <%-- <asp:Button ID="found_button" onclientclick="foundPins();" runat="server" Text="Found" />
+                    <asp:Button ID="created_button" runat="server" Text="Created" />
+                    <asp:Button ID="curated_button" runat="server" Text="Curated" />--%>
+                    
                     <p>
                         Click on any marker to see a small image of the artifact and click the title to see more information.
                     </p>
@@ -157,7 +164,7 @@
     <!-- Contact Section -->
     <section class="for-full-back color-white " id="contact-sec">
         <div class="container">
-
+        </div>
 
            
     </section>
