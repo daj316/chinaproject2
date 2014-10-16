@@ -33,7 +33,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="Default.aspx">WeNeedALogo</a>
+                <a class="navbar-brand" href="Default.aspx">China Institute of Orientalism</a>
             </div>
             <!-- Collect the nav links for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
