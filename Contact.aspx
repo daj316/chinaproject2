@@ -80,7 +80,7 @@
             
         </div>
                 <div class="row text-center">
-                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:200px; width:auto;"  />
+                    <img src="assets/img/china-institute-of-orientalism-logo-current.png"  style ="max-height:25em; width:auto;"  />
                 </div>
 
 
